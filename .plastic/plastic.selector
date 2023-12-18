@@ -1,0 +1,4 @@
+repository "NoCommunicationGame@Miccielly@cloud"
+  path "/"
+    br "/main"
+    co "/main"
